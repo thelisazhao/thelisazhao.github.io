@@ -601,7 +601,7 @@ nav ul li a {
   padding: 0 0 0 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 736px) {
   .portfolio-details .portfolio-description h2 {
     width: 100%;
   }
