@@ -6075,7 +6075,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #7B7D7D !important;
+  background-color: #c3a983 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9777,7 +9777,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #AEB6BF !important;
+  color: #b8a07e !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10069,7 +10069,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
+  background-color: #b8a07e;
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
