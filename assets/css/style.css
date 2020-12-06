@@ -71,7 +71,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #999999;
+  color: #212529;
   line-height: 28px;
 }
 
@@ -564,6 +564,10 @@ nav ul li a {
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
   background-color: #b8a07e !important;
+}
+
+.portfolio-details .portfolio-details-carousel img {
+  height: 720px;
 }
 
 .portfolio-details .portfolio-info {
